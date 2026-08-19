@@ -6,49 +6,60 @@
   <a href="https://menechan.lol">
     <img src="https://img.shields.io/badge/menechan.lol-0a0a0a?style=for-the-badge" alt="menechan.lol" />
   </a>
+  <a href="https://menechan.lol/projetos">
+    <img src="https://img.shields.io/badge/projetos-0a0a0a?style=for-the-badge" alt="projetos" />
+  </a>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge" alt="Convex" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=2800&pause=900&color=C9C4B8&center=true&vCenter=true&width=620&lines=sites+por+assinatura+pra+pequenos+neg%C3%B3cios;Next.js+%C2%B7+Convex+%C2%B7+TypeScript+%C2%B7+Docker;voc%C3%AA+cuida+do+neg%C3%B3cio.+eu+cuido+do+site." alt="animação de texto" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=2800&pause=900&color=C9C4B8&center=true&vCenter=true&width=640&lines=sites+por+assinatura+pra+pequenos+neg%C3%B3cios;lojas%2C+plataformas+e+produtos+no+ar;voc%C3%AA+cuida+do+neg%C3%B3cio.+eu+cuido+do+site." alt="animação de texto" />
 </p>
 
 ---
 
 ### `01` — agora
 
-Construo **sites por assinatura** para quem quer presença na internet sem virar web designer. Criação, hospedagem, atualizações e manutenção numa parceria contínua — a partir de **R$ 50/mês**.
+Vibecodo até entrar no ar.
 
-No resto do tempo, vibecodo produtos que realmente entram no ar: apps, bots e infra.
+**MENECHAN** é sites por assinatura para pequenos negócios: criação, hospedagem, atualizações e manutenção numa parceria contínua — a partir de **R$ 50/mês**.
+
+O resto do tempo vai em produto próprio: loja, gifting, monitoramento, presença digital. Sem mock. Sem concept art. No ar.
 
 <p align="center">
   <a href="https://menechan.lol"><strong>menechan.lol</strong></a>
   &nbsp;·&nbsp;
-  você cuida do negócio. eu cuido do site.
+  <a href="https://menechan.lol/projetos">ver os cases</a>
 </p>
 
 ---
 
 ### `02` — no ar
 
-| | o que é | link |
-| :--- | :--- | :--- |
-| **MENECHAN** | Sites por assinatura para pequenos negócios | [menechan.lol](https://menechan.lol) |
-| **Estude Mais** | App de estudos para concursos (PMESP) | em produção |
-| **ContaSmurf** | Bot Discord — tickets e música | em produção |
+Só o que já está publicado. O que ainda tá na mesa não entra aqui.
+
+| | o que é | stack | live |
+| :--- | :--- | :--- | :--- |
+| **[Monitor de Concursos](https://monitordeconcursos.com)** | Concursos públicos com alertas e busca rápida | Python · React · Vite · Tailwind · Discloud | [monitordeconcursos.com](https://monitordeconcursos.com) |
+| **[ContaSmurf](https://contasmurf.com)** | Loja de contas LoL e smurf, entrega na hora | Next.js · Fastify · Prisma · TypeScript | [contasmurf.com](https://contasmurf.com) |
+| **[LoL Gifting](https://lolgifting.store)** | Skins de LoL com entrega via presente | Next.js · PostgreSQL · Python · Tailwind | [lolgifting.store](https://lolgifting.store) |
+| **[Neckel Studio](https://neckelstudio.discloud.app)** | Presença digital de estúdio criativo | Next.js · TypeScript · Tailwind · Discloud | [neckelstudio.discloud.app](https://neckelstudio.discloud.app) |
+| **[MENECHAN](https://menechan.lol)** | Sites por assinatura para pequenos negócios | Next.js · Convex · TypeScript | [menechan.lol](https://menechan.lol) |
+
+Cases com contexto: [menechan.lol/projetos](https://menechan.lol/projetos)
 
 ---
 
 ### `03` — stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,docker,git,github,linux,discord,postgres,cloudflare,vercel" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,vite,tailwind,prisma,postgres,docker,git,github,linux,cloudflare,discord" alt="tecnologias" />
 </p>
 
 <p align="center">
-  <sub>Convex · Discloud · APIs · self-hosted quando precisa</sub>
+  <sub>Convex · Fastify · Discloud · Prisma · APIs · self-hosted quando precisa</sub>
 </p>
 
 ---
