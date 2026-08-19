@@ -42,7 +42,22 @@ Faço **sites por assinatura** pra pequeno negócio — criação, hospedagem e 
 ### `03` — stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,vite,tailwind,prisma,postgres,docker,git,github,linux,cloudflare,discord" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Discord" />
 </p>
 
 <p align="center">
