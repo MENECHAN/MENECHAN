@@ -12,10 +12,10 @@
     <animate attributeName="opacity" values=".4;0;0.4" dur="1.8s" repeatCount="indefinite"/>
   </circle>
   
-  <text x="32" y="104" fill="#F4F1EA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700">95</text>
+  <text x="32" y="104" fill="#F4F1EA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700">94</text>
   <text x="32" y="128" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.1">contribuições</text>
   
-  <text x="278" y="104" fill="#F4F1EA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700">13</text>
+  <text x="278" y="104" fill="#F4F1EA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700">14</text>
   <text x="278" y="128" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.1">dias ativos</text>
   
   <text x="510" y="104" fill="#F4F1EA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700">2</text>
@@ -27,21 +27,21 @@
   <text x="978" y="104" fill="#F4F1EA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700">4%</text>
   <text x="978" y="128" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.1">densidade</text>
   <rect x="32" y="160" width="1136" height="1" fill="#242424"/>
-  <text x="32" y="198" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10">1+ / dia · 13d</text>
+  <text x="32" y="198" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10">1+ / dia · 14d</text>
       <rect x="32" y="210" width="228" height="7" rx="3.5" fill="#0A0A0A"/>
       <rect x="32" y="210" width="0" height="7" rx="3.5" fill="#C8E0B8">
         <animate attributeName="width" from="0" to="228" dur="1.4s" begin="0s" fill="freeze"/>
       </rect><text x="310" y="198" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10">3+ / dia · 8d</text>
       <rect x="310" y="210" width="228" height="7" rx="3.5" fill="#0A0A0A"/>
       <rect x="310" y="210" width="0" height="7" rx="3.5" fill="#FF5C35">
-        <animate attributeName="width" from="0" to="140" dur="1.4s" begin="0.18s" fill="freeze"/>
-      </rect><text x="588" y="198" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10">5+ / dia · 7d</text>
+        <animate attributeName="width" from="0" to="130" dur="1.4s" begin="0.18s" fill="freeze"/>
+      </rect><text x="588" y="198" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10">5+ / dia · 6d</text>
       <rect x="588" y="210" width="228" height="7" rx="3.5" fill="#0A0A0A"/>
       <rect x="588" y="210" width="0" height="7" rx="3.5" fill="#FF5C35">
-        <animate attributeName="width" from="0" to="123" dur="1.4s" begin="0.36s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="98" dur="1.4s" begin="0.36s" fill="freeze"/>
       </rect><text x="866" y="198" fill="#9A9488" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10">10+ / dia · 3d</text>
       <rect x="866" y="210" width="228" height="7" rx="3.5" fill="#0A0A0A"/>
       <rect x="866" y="210" width="0" height="7" rx="3.5" fill="#FF5C35">
-        <animate attributeName="width" from="0" to="53" dur="1.4s" begin="0.54s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="49" dur="1.4s" begin="0.54s" fill="freeze"/>
       </rect>
 </svg>
