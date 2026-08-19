@@ -5,13 +5,13 @@
   "foregroundColor": "#f4f1ea",
   "strongColor": "#f4f1ea",
   "weakColor": "#6b675e",
-  "radarColor": "#ff5c35",
+  "radarColor": "#c9c4b8",
   "growingAnimation": true,
   "contribColors": [
     "#161616",
     "#3d382c",
     "#8a7f68",
     "#c9c4b8",
-    "#FF5C35"
+    "#f4f1ea"
   ]
 }
