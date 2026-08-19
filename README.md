@@ -26,7 +26,7 @@ Vibecodo até entrar no ar.
 
 **MENECHAN** é sites por assinatura para pequenos negócios: criação, hospedagem, atualizações e manutenção numa parceria contínua — a partir de **R$ 50/mês**.
 
-O resto do tempo vai em produto próprio: loja, gifting, monitoramento, presença digital. Sem mock. Sem concept art. No ar.
+O resto do tempo vai em produto próprio: loja, monitoramento, presença digital. Sem mock. Sem concept art. No ar.
 
 <p align="center">
   <a href="https://menechan.lol"><strong>menechan.lol</strong></a>
@@ -44,7 +44,6 @@ Só o que já está publicado. O que ainda tá na mesa não entra aqui.
 | :--- | :--- | :--- | :--- |
 | **[Monitor de Concursos](https://monitordeconcursos.com)** | Concursos públicos com alertas e busca rápida | Python · React · Vite · Tailwind · Discloud | [monitordeconcursos.com](https://monitordeconcursos.com) |
 | **[ContaSmurf](https://contasmurf.com)** | Loja de contas LoL e smurf, entrega na hora | Next.js · Fastify · Prisma · TypeScript | [contasmurf.com](https://contasmurf.com) |
-| **[LoL Gifting](https://lolgifting.store)** | Skins de LoL com entrega via presente | Next.js · PostgreSQL · Python · Tailwind | [lolgifting.store](https://lolgifting.store) |
 | **[Neckel Studio](https://neckelstudio.discloud.app)** | Presença digital de estúdio criativo | Next.js · TypeScript · Tailwind · Discloud | [neckelstudio.discloud.app](https://neckelstudio.discloud.app) |
 | **[MENECHAN](https://menechan.lol)** | Sites por assinatura para pequenos negócios | Next.js · Convex · TypeScript | [menechan.lol](https://menechan.lol) |
 
@@ -66,9 +65,15 @@ Cases com contexto: [menechan.lol/projetos](https://menechan.lol/projetos)
 
 ### `04` — github
 
+O quadro de contribuições virou cidade. Cada barra é um dia. Sem cobrinha.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MENECHAN&show_icons=true&theme=transparent&hide_border=true&title_color=F4F1EA&icon_color=C9C4B8&text_color=A8A49A&ring_color=F4F1EA" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENECHAN&layout=compact&theme=transparent&hide_border=true&title_color=F4F1EA&text_color=A8A49A" alt="linguagens" />
+  <img src="./profile-3d-contrib/profile-menechan.svg" alt="cidade 3D de contribuições" width="100%" />
+</p>
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="linguagens" />
 </p>
 
 <p align="center">
